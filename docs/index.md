@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"/>
+
 ![](images/ASNA.png)
 
 ## This is the index page.
