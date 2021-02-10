@@ -1,4 +1,4 @@
-![](images/asna.png)
+![](images/ASNA.png)
 
 ## This is the index page.
 
